@@ -1,1 +1,3 @@
-# Praca-naukowa
+# Praca Naukowa: Maszyna Turinga jako fundament informatyki teoretycznej
+
+Niniejsze repozytorium zawiera część badawczą mojej pracy licencjackiej, zrealizowanej na kierunku Informatyka ogólnoakademicka. Projekt nosi tytuł „Maszyna Turinga jako fundament informatyki teoretycznej: złożoność obliczeniowa i granice stosowalności” i stanowił teoretyczne zaplecze mojego licencjatu.   Opracowanie analizuje maszynę Turinga jako abstrakcyjny model procesu obliczeniowego. Dokument szczegółowo omawia teorię złożoności obliczeniowej, w tym klasy problemów decyzyjnych P oraz NP, a także złożoność pamięciową i związane z nią klasy PSPACE. Kluczowym elementem pracy jest badanie granic stosowalności algorytmów w oparciu o problem stopu i twierdzenie Rice'a. Rozważania te udowadniają matematyczną niemożliwość stworzenia narzędzi idealnych we współczesnej inżynierii oprogramowania, takich jak bezbłędne kompilatory czy perfekcyjnie skuteczne programy antywirusowe.
